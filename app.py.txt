@@ -7,7 +7,7 @@ import pandas as pd
 st.set_page_config(page_title="İnşaat Proje Süresi Tahmin Uygulaması", layout="centered")
 
 # Başlık ve Açıklama
-st.title("🏗️ İnşaat Proje Süresi Tahmin Modeli OKAN SEYFİ DELİMAZI 2022232030")
+st.title("🏗️ İnşaat Proje Süresi Tahmin Modeli Hasan Bora Baştaş 2022232014")
 st.write("Projenizin parametrelerini girerek tahmini tamamlanma süresini hesaplayın.")
 
 # Modelleri ve Meta Veriyi Yükle
