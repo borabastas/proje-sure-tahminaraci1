@@ -7,7 +7,7 @@ import pandas as pd
 
 # Sayfa Yapılandırması
 st.set_page_config(
-    page_title="İnşaat Süresi Tahmin Sistemi Hasan Bora Baştaş 2022232014",
+    page_title="İnşaat Süresi Tahmin Sistemi",
     page_icon="🏗️",
     layout="centered")
 
